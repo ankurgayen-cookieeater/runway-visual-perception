@@ -27,11 +27,37 @@ UAV onboard-camera video
 
 ## Dataset
 
-The project uses runway footage containing both real and simulated UAV video.
+The project uses the **UAV Flights Dataset**, published through the **University of Sheffield ORDA (Online Research Data)** repository.
 
-A mixed-domain dataset was prepared for training and evaluation.
+The dataset is part of the **Swarm of UAVs Innovate UK Project, Future Flights Strand 3** and contains UAV flight data recorded during landing approaches in both real-world and simulated environments. The recordings include onboard-camera video from real UAV flights as well as simulation flights using **X-Plane 11**. :contentReference[oaicite:0]{index=0}
 
-The complete datasets are not included in this repository because of their size.
+The dataset includes runway-approach footage and corresponding ground-truth annotations describing the two runway sidelines. The data was created to support research in vision-based navigation, runway detection, trajectory evaluation, and autonomous UAV landing. :contentReference[oaicite:1]{index=1}
+
+For this project, selected real and simulated runway sequences from the dataset were used to prepare a mixed-domain dataset for YOLO Pose training and evaluation.
+
+The final dataset contains:
+
+- 1,400 training frames
+- 802 validation frames
+- 756 test frames
+
+The selected sequences include:
+
+- `GX010028Trim2.mp4` — real UAV flight
+- `GX010035Trim1.mp4` — real UAV flight
+- `runway_02.mp4` — simulated UAV flight
+- `runway_video20230228-103640.mp4` — simulated UAV flight
+
+The original runway side-line annotations were converted into four keypoints:
+
+- Left-bottom runway point
+- Left-top runway point
+- Right-bottom runway point
+- Right-top runway point
+
+These keypoints are used to represent the visible runway geometry for the YOLO Pose model.
+
+The complete UAV Flights Dataset is not included in this repository because of its size. The original dataset is available from the University of Sheffield ORDA repository under DOI **10.15131/shef.data.25712577.v1**. :contentReference[oaicite:2]{index=2}
 
 ## Model
 
@@ -66,4 +92,4 @@ The test video was not used during model training.
 
 The final Train-7 model is frozen.
 
-The repository contains the code and documentation required to reproduce and understand the final project.
+The repository contains the code, experiments, results, and documentation required to reproduce and understand the final project.
