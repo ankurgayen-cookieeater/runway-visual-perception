@@ -5,7 +5,7 @@ import shutil
 from pathlib import Path
 
 
-ROOT = Path(r"D:\python_projects\YOLO_projects\aviation_cv")
+ROOT = Path(__file__).resolve().parent
 
 OUTPUT = ROOT / "final_yolo_pose_mixed_domain"
 
