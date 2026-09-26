@@ -29,11 +29,11 @@ UAV onboard-camera video
 
 The project uses the **UAV Flights Dataset**, published through the **University of Sheffield ORDA (Online Research Data)** repository.
 
-The dataset is part of the **Swarm of UAVs Innovate UK Project, Future Flights Strand 3** and contains UAV flight data recorded during landing approaches in both real-world and simulated environments. The recordings include onboard-camera video from real UAV flights as well as simulation flights using **X-Plane 11**. :contentReference[oaicite:0]{index=0}
+The dataset is part of the **Swarm of UAVs Innovate UK Project, Future Flights Strand 3** and contains UAV flight data recorded during landing approaches in both real-world and simulated environments. The recordings include onboard-camera video from real UAV flights as well as simulation flights using **X-Plane 11**.
 
-The dataset includes runway-approach footage and corresponding ground-truth annotations describing the two runway sidelines. The data was created to support research in vision-based navigation, runway detection, trajectory evaluation, and autonomous UAV landing. :contentReference[oaicite:1]{index=1}
+The dataset includes runway-approach footage and ground-truth annotations describing the runway sidelines.
 
-For this project, selected real and simulated runway sequences from the dataset were used to prepare a mixed-domain dataset for YOLO Pose training and evaluation.
+For this project, selected real and simulated runway sequences from the UAV Flights Dataset were used to prepare a mixed-domain dataset for YOLO Pose training and evaluation.
 
 The final dataset contains:
 
@@ -57,7 +57,10 @@ The original runway side-line annotations were converted into four keypoints:
 
 These keypoints are used to represent the visible runway geometry for the YOLO Pose model.
 
-The complete UAV Flights Dataset is not included in this repository because of its size. The original dataset is available from the University of Sheffield ORDA repository under DOI **10.15131/shef.data.25712577.v1**. :contentReference[oaicite:2]{index=2}
+The complete UAV Flights Dataset is not included in this repository because of its size.
+
+**Dataset source:** University of Sheffield ORDA  
+**DOI:** `10.15131/shef.data.25712577.v1`
 
 ## Model
 
