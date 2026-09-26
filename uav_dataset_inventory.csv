@@ -1,0 +1,164 @@
+﻿video,relative_path,readable,width,height,fps,video_frames,matching_csv_count,matching_csvs,annotated_frames,first_annotated_frame,last_annotated_frame
+20210901_Predannack_Land_1.mp4,real_videos\20210901_Predannack_Land_1.mp4,True,1920,1080,29.97002997002997,968,0,,0,-1,-1
+20220816_PDK_b_2x_auto_touch_and_go_plus_full_stop_-_1.MP4,real_videos\20220816_PDK_b_2x_auto_touch_and_go_plus_full_stop_-_1.MP4,True,1920,1080,59.94005994005994,22042,0,,0,-1,-1
+20220816_PDK_b_3x_auto_touch_and_go_-_1.MP4,real_videos\20220816_PDK_b_3x_auto_touch_and_go_-_1.MP4,True,1920,1080,59.94005994005994,25795,0,,0,-1,-1
+20220816_PDK_b_3x_auto_touch_and_go_-_2.MP4,real_videos\20220816_PDK_b_3x_auto_touch_and_go_-_2.MP4,True,1920,1080,59.94005994005994,22750,0,,0,-1,-1
+20220816_PDK_b_3x_auto_touch_and_go_-_3.MP4,real_videos\20220816_PDK_b_3x_auto_touch_and_go_-_3.MP4,True,1920,1080,59.94005994005994,25284,0,,0,-1,-1
+20220816_PDK_b_3x_auto_touch_and_go_-_5.MP4,real_videos\20220816_PDK_b_3x_auto_touch_and_go_-_5.MP4,True,1920,1080,59.94005994005994,22918,0,,0,-1,-1
+20220816_PDK_b_3x_auto_touch_and_go_-_6.MP4,real_videos\20220816_PDK_b_3x_auto_touch_and_go_-_6.MP4,True,1920,1080,59.94005994005994,24098,0,,0,-1,-1
+20220816_PDK_b_4x_auto_touch_and_go.MP4,real_videos\20220816_PDK_b_4x_auto_touch_and_go.MP4,True,1920,1080,59.94005994005994,31577,0,,0,-1,-1
+20220816_PDK_b_auto_touch_and_go_-_1.MP4,real_videos\20220816_PDK_b_auto_touch_and_go_-_1.MP4,True,1920,1080,59.94005994005994,3650,0,,0,-1,-1
+20220816_PDK_b_auto_touch_and_go_-_2.MP4,real_videos\20220816_PDK_b_auto_touch_and_go_-_2.MP4,True,1920,1080,59.94005994005994,4785,0,,0,-1,-1
+20220816_PDK_b_auto_touch_and_go_-_3.MP4,real_videos\20220816_PDK_b_auto_touch_and_go_-_3.MP4,True,1920,1080,59.94005994005994,4337,0,,0,-1,-1
+20220816_PDK_t_2x_auto_touch_and_go_-_1.MP4,real_videos\20220816_PDK_t_2x_auto_touch_and_go_-_1.MP4,True,1920,1080,29.97002997002997,7112,0,,0,-1,-1
+badvideo.mp4,real_videos\badvideo.mp4,True,1280,720,29.97002997002997,9000,0,,0,-1,-1
+badvideo_Trim.mp4,real_videos\badvideo_Trim.mp4,True,1280,720,30.0,3057,0,,0,-1,-1
+cropped210423.mp4,real_videos\cropped210423.mp4,True,1920,1080,30.0,2761,0,,0,-1,-1
+cropped210423_number2.mp4,real_videos\cropped210423_number2.mp4,True,1920,1080,30.0,2510,0,,0,-1,-1
+GH026034Trim1.mp4,real_videos\GH026034Trim1.mp4,True,1920,1080,59.94005994005994,1244,0,,0,-1,-1
+GH036033Trim1.mp4,real_videos\GH036033Trim1.mp4,True,1920,1080,59.94005994005994,1049,0,,0,-1,-1
+GH036033Trim2.mp4,real_videos\GH036033Trim2.mp4,True,1920,1080,59.94005994005994,1836,0,,0,-1,-1
+GH036039Trim1.mp4,real_videos\GH036039Trim1.mp4,True,1920,1080,59.94005994005994,634,0,,0,-1,-1
+GH036039Trim2.mp4,real_videos\GH036039Trim2.mp4,True,1920,1080,59.94005994005994,1394,0,,0,-1,-1
+GH036039Trim3.mp4,real_videos\GH036039Trim3.mp4,True,1920,1080,59.94005994005994,1393,0,,0,-1,-1
+GH056037Trim1.mp4,real_videos\GH056037Trim1.mp4,True,1920,1080,59.94005994005994,1443,0,,0,-1,-1
+GH056042Trim1.mp4,real_videos\GH056042Trim1.mp4,True,1920,1080,59.94005994005994,1574,0,,0,-1,-1
+GH066043Trim1.mp4,real_videos\GH066043Trim1.mp4,True,1920,1080,59.94005994005994,1495,0,,0,-1,-1
+good_w_Trim.mp4,real_videos\good_w_Trim.mp4,True,1280,720,30.0,10694,0,,0,-1,-1
+GoodW.mp4,real_videos\GoodW.mp4,True,1920,1080,29.97002997002997,9000,0,,0,-1,-1
+GoodW_Trim.mp4,real_videos\GoodW_Trim.mp4,True,1920,1080,30.0,6117,0,,0,-1,-1
+GX010025Trim2.mp4,real_videos\GX010025Trim2.mp4,True,1920,1080,29.97002997002997,1373,0,,0,-1,-1
+GX010025Trim3.mp4,real_videos\GX010025Trim3.mp4,True,1920,1080,29.97002997002997,1822,0,,0,-1,-1
+GX010026Trim1.mp4,real_videos\GX010026Trim1.mp4,True,1920,1080,29.97002997002997,1091,0,,0,-1,-1
+GX010026Trim2.mp4,real_videos\GX010026Trim2.mp4,True,1920,1080,29.97002997002997,1410,0,,0,-1,-1
+GX010026Trim3.mp4,real_videos\GX010026Trim3.mp4,True,1920,1080,29.97002997002997,1410,0,,0,-1,-1
+GX010026Trim4.mp4,real_videos\GX010026Trim4.mp4,True,1920,1080,29.97002997002997,1145,0,,0,-1,-1
+GX010028Trim1.mp4,real_videos\GX010028Trim1.mp4,True,1920,1080,29.97002997002997,1610,0,,0,-1,-1
+GX010028Trim2.mp4,real_videos\GX010028Trim2.mp4,True,1920,1080,29.97002997002997,3220,1,ground_truth_sidelines_extraction\outputVideoGX010028Trim2.csv,850,1,850
+GX010028Trim3.mp4,real_videos\GX010028Trim3.mp4,True,1920,1080,29.97002997002997,849,0,,0,-1,-1
+GX010033Trim1.mp4,real_videos\GX010033Trim1.mp4,True,1920,1080,29.97002997002997,1081,0,,0,-1,-1
+GX010033Trim2.mp4,real_videos\GX010033Trim2.mp4,True,1920,1080,29.97002997002997,1913,0,,0,-1,-1
+GX010035Trim1.mp4,real_videos\GX010035Trim1.mp4,True,1920,1080,29.97002997002997,2319,1,ground_truth_sidelines_extraction\outpuGX010035Trim1.csv,802,1,802
+GX010035Trim2.mp4,real_videos\GX010035Trim2.mp4,True,1920,1080,29.97002997002997,2577,0,,0,-1,-1
+GX010035Trim3.mp4,real_videos\GX010035Trim3.mp4,True,1920,1080,29.97002997002997,3260,0,,0,-1,-1
+GX010035Trim4.mp4,real_videos\GX010035Trim4.mp4,True,1920,1080,29.97002997002997,3573,0,,0,-1,-1
+GX010035Trim5.mp4,real_videos\GX010035Trim5.mp4,True,1920,1080,29.97002997002997,2675,0,,0,-1,-1
+GX010037Trim1.mp4,real_videos\GX010037Trim1.mp4,True,1920,1080,29.97002997002997,2435,0,,0,-1,-1
+GX010041Trim1.mp4,real_videos\GX010041Trim1.mp4,True,1920,1080,29.97002997002997,900,0,,0,-1,-1
+GX010041Trim2.mp4,real_videos\GX010041Trim2.mp4,True,1920,1080,29.97002997002997,675,0,,0,-1,-1
+GX016080 - Trim.MP4,real_videos\GX016080 - Trim.MP4,True,1920,1080,29.970029730578048,37298,0,,0,-1,-1
+GX016081.MP4,real_videos\GX016081.MP4,True,1920,1080,29.97002997002997,26069,0,,0,-1,-1
+GX016082 - Trim.MP4,real_videos\GX016082 - Trim.MP4,True,1920,1080,29.970029059498117,3094,0,,0,-1,-1
+GX016090.MP4,real_videos\GX016090.MP4,True,1920,1080,29.97002997002997,69662,0,,0,-1,-1
+GX016092 - Trim.MP4,real_videos\GX016092 - Trim.MP4,True,1920,1080,29.972960908734436,3244,0,,0,-1,-1
+GX016092Trim.mp4,real_videos\GX016092Trim.mp4,True,1920,1080,29.97002997002997,1945,0,,0,-1,-1
+GX016101 - Trim.MP4,real_videos\GX016101 - Trim.MP4,True,1920,1080,29.970309176166214,28790,0,,0,-1,-1
+GX016112 - Trim.MP4,real_videos\GX016112 - Trim.MP4,True,1920,1080,29.97074420138019,19814,0,,0,-1,-1
+GX016112 - Trim2.MP4,real_videos\GX016112 - Trim2.MP4,True,1920,1080,29.970131793426987,97783,0,,0,-1,-1
+GX016112Trim1.mp4,real_videos\GX016112Trim1.mp4,True,1920,1080,29.97002997002997,1536,0,,0,-1,-1
+GX016112Trim2.mp4,real_videos\GX016112Trim2.mp4,True,1920,1080,29.97002997002997,1920,0,,0,-1,-1
+GX016113 - Trim.MP4,real_videos\GX016113 - Trim.MP4,True,1920,1080,29.970029799590677,164938,0,,0,-1,-1
+GX016115Trim1.mp4,real_videos\GX016115Trim1.mp4,True,1920,1080,29.97002997002997,884,0,,0,-1,-1
+GX016115Trim2.mp4,real_videos\GX016115Trim2.mp4,True,1920,1080,29.97002997002997,1405,0,,0,-1,-1
+GX016115Trim3.mp4,real_videos\GX016115Trim3.mp4,True,1920,1080,29.97002997002997,935,0,,0,-1,-1
+GX016115Trim4.mp4,real_videos\GX016115Trim4.mp4,True,1920,1080,29.97002997002997,826,0,,0,-1,-1
+GX016115Trim5.mp4,real_videos\GX016115Trim5.mp4,True,1920,1080,29.97002997002997,1239,0,,0,-1,-1
+GX016116 - Trim.MP4,real_videos\GX016116 - Trim.MP4,True,1920,1080,29.970029489205494,59962,0,,0,-1,-1
+GX016116Trim1.mp4,real_videos\GX016116Trim1.mp4,True,1920,1080,29.97002997002997,1414,0,,0,-1,-1
+GX016116Trim2.mp4,real_videos\GX016116Trim2.mp4,True,1920,1080,29.97002997002997,1257,0,,0,-1,-1
+GX016116Trim3.mp4,real_videos\GX016116Trim3.mp4,True,1920,1080,29.97002997002997,1729,0,,0,-1,-1
+GX016117Trim1.mp4,real_videos\GX016117Trim1.mp4,True,1920,1080,29.97002997002997,950,0,,0,-1,-1
+GX016117Trim2.mp4,real_videos\GX016117Trim2.mp4,True,1920,1080,29.97002997002997,949,0,,0,-1,-1
+GX016117Trim3.mp4,real_videos\GX016117Trim3.mp4,True,1920,1080,29.97002997002997,949,0,,0,-1,-1
+GX016117Trim4.mp4,real_videos\GX016117Trim4.mp4,True,1920,1080,29.97002997002997,1265,0,,0,-1,-1
+GX016117Trim5.mp4,real_videos\GX016117Trim5.mp4,True,1920,1080,29.97002997002997,1899,0,,0,-1,-1
+GX016118Trim1.mp4,real_videos\GX016118Trim1.mp4,True,1920,1080,29.97002997002997,1341,0,,0,-1,-1
+GX016118Trim2.mp4,real_videos\GX016118Trim2.mp4,True,1920,1080,29.97002997002997,838,0,,0,-1,-1
+GX016118Trim3.mp4,real_videos\GX016118Trim3.mp4,True,1920,1080,29.97002997002997,1173,0,,0,-1,-1
+GX016118Trim4.mp4,real_videos\GX016118Trim4.mp4,True,1920,1080,29.97002997002997,1341,0,,0,-1,-1
+GX016121.MP4,real_videos\GX016121.MP4,True,1920,1080,29.97002997002997,49228,0,,0,-1,-1
+GX016123_feb2023.MP4,real_videos\GX016123_feb2023.MP4,True,1920,1080,29.971562220379052,14811,0,,0,-1,-1
+GX016128 - Trim.MP4,real_videos\GX016128 - Trim.MP4,True,1920,1080,29.970029859032152,46171,0,,0,-1,-1
+GX020059Trim1.mp4,real_videos\GX020059Trim1.mp4,True,1920,1080,29.97002997002997,2050,0,,0,-1,-1
+GX020059Trim2.mp4,real_videos\GX020059Trim2.mp4,True,1920,1080,29.97002997002997,1746,0,,0,-1,-1
+GX020059Trim3.mp4,real_videos\GX020059Trim3.mp4,True,1920,1080,29.97002997002997,1138,0,,0,-1,-1
+GX020059Trim4.mp4,real_videos\GX020059Trim4.mp4,True,1920,1080,29.97002997002997,1139,0,,0,-1,-1
+GX020059Trim5.mp4,real_videos\GX020059Trim5.mp4,True,1920,1080,29.97002997002997,1139,0,,0,-1,-1
+GX020059Trim6.mp4,real_videos\GX020059Trim6.mp4,True,1920,1080,29.97002997002997,835,0,,0,-1,-1
+GX020062Trim1.mp4,real_videos\GX020062Trim1.mp4,True,1920,1080,29.97002997002997,1330,0,,0,-1,-1
+GX026108Trim1.mp4,real_videos\GX026108Trim1.mp4,True,1920,1080,29.97002997002997,1359,0,,0,-1,-1
+GX026108Trim2.mp4,real_videos\GX026108Trim2.mp4,True,1920,1080,29.97002997002997,1283,0,,0,-1,-1
+GX026108Trim3.mp4,real_videos\GX026108Trim3.mp4,True,1920,1080,29.97002997002997,1057,0,,0,-1,-1
+GX036106Trim1.mp4,real_videos\GX036106Trim1.mp4,True,1920,1080,29.97002997002997,871,0,,0,-1,-1
+GX036106Trim2.mp4,real_videos\GX036106Trim2.mp4,True,1920,1080,29.97002997002997,1255,0,,0,-1,-1
+GX036110Trim1.mp4,real_videos\GX036110Trim1.mp4,True,1920,1080,29.97002997002997,1646,0,,0,-1,-1
+GX036110Trim2.mp4,real_videos\GX036110Trim2.mp4,True,1920,1080,29.97002997002997,897,0,,0,-1,-1
+GX046109Trim.mp4,real_videos\GX046109Trim.mp4,True,1920,1080,29.97002997002997,1502,0,,0,-1,-1
+GX090059Trim1.mp4,real_videos\GX090059Trim1.mp4,True,1920,1080,29.97002997002997,634,0,,0,-1,-1
+GX090059Trim2.mp4,real_videos\GX090059Trim2.mp4,True,1920,1080,29.97002997002997,634,0,,0,-1,-1
+GX090059Trim3.mp4,real_videos\GX090059Trim3.mp4,True,1920,1080,29.97002997002997,2060,0,,0,-1,-1
+GX100059Trim1.mp4,real_videos\GX100059Trim1.mp4,True,1920,1080,29.97002997002997,722,0,,0,-1,-1
+GX100059Trim2.mp4,real_videos\GX100059Trim2.mp4,True,1920,1080,29.97002997002997,1443,0,,0,-1,-1
+landvideo2_Trim.mp4,real_videos\landvideo2_Trim.mp4,True,1280,720,30.0,2344,0,,0,-1,-1
+leonsolent.mp4,real_videos\leonsolent.mp4,True,1280,720,30.0,16088,0,,0,-1,-1
+leonsolent_Trim.mp4,real_videos\leonsolent_Trim.mp4,True,1280,720,30.0,1484,0,,0,-1,-1
+newvideo121022_Trim.mp4,real_videos\newvideo121022_Trim.mp4,True,1920,1080,30.0,4351,0,,0,-1,-1
+Practice Out to Sea Flight 18.mp4,real_videos\Practice Out to Sea Flight 18.mp4,True,1280,720,30.0,18681,0,,0,-1,-1
+Predannack Land 2.mp4,real_videos\Predannack Land 2.mp4,True,1280,720,29.97002997002997,9000,0,,0,-1,-1
+Predannack Land.mp4,real_videos\Predannack Land.mp4,True,1280,720,29.97002997002997,9000,0,,0,-1,-1
+predVideo.MP4,real_videos\predVideo.MP4,True,1920,1080,29.97002997002997,7112,0,,0,-1,-1
+RainVideo.MP4,real_videos\RainVideo.MP4,True,1920,1080,29.97002997002997,2304,0,,0,-1,-1
+real_video_cropped.mp4,real_videos\real_video_cropped.mp4,True,1920,1080,30.0,1560,0,,0,-1,-1
+Thorney Land 10.mp4,real_videos\Thorney Land 10.mp4,True,1280,720,29.97002997002997,9000,0,,0,-1,-1
+Thorney Land 17.mp4,real_videos\Thorney Land 17.mp4,True,1280,720,29.593,8887,0,,0,-1,-1
+Thorney Land 7.mp4,real_videos\Thorney Land 7.mp4,True,1280,720,29.97002997002997,9000,0,,0,-1,-1
+Thorney Land Youtube.mp4,real_videos\Thorney Land Youtube.mp4,True,1280,720,29.97002997002997,9000,0,,0,-1,-1
+Video10_5_2023.mp4,real_videos\Video10_5_2023.mp4,True,1920,1080,29.97002997002997,1529,0,,0,-1,-1
+videoland2.MP4,real_videos\videoland2.MP4,True,1920,1080,29.97002997002997,2632,0,,0,-1,-1
+videoland2_Trim.mp4,real_videos\videoland2_Trim.mp4,True,1920,1080,30.0,2408,0,,0,-1,-1
+videoland_Trim.mp4,real_videos\videoland_Trim.mp4,True,1920,1080,30.0,6815,0,,0,-1,-1
+Clear2501.mp4,simulation\Clear2501.mp4,True,1280,718,5.0,261,0,,0,-1,-1
+Clear2501_croped.mp4,simulation\Clear2501_croped.mp4,True,1280,718,5.0,156,0,,0,-1,-1
+cross_land_20230203_1125.mp4,simulation\cross_land_20230203_1125.mp4,True,1280,720,30.0,825,0,,0,-1,-1
+eval_1.mp4,simulation\eval_1.mp4,True,1280,720,30.0,1798,0,,0,-1,-1
+land_night.mp4,simulation\land_night.mp4,True,1280,718,5.0,338,0,,0,-1,-1
+r_trim.mp4,simulation\r_trim.mp4,True,1280,720,30.004,1890,0,,0,-1,-1
+r_trim2.mp4,simulation\r_trim2.mp4,True,1280,720,30.004032398580197,4018,0,,0,-1,-1
+runway_02.mp4,simulation\runway_02.mp4,True,1280,720,30.0,812,1,ground_truth_sidelines_extraction\outputrunway_02.mp4.csv,756,1,756
+runway_02_edges.mp4,simulation\runway_02_edges.mp4,True,1270,720,30.0,812,0,,0,-1,-1
+runway_rain_20230215.mp4,simulation\runway_rain_20230215.mp4,True,1280,720,30.0,994,0,,0,-1,-1
+runway_video20230220-105358.mp4,simulation\runway_video20230220-105358.mp4,True,1280,720,30.0,878,0,,0,-1,-1
+runway_video20230220-145420.mp4,simulation\runway_video20230220-145420.mp4,True,1280,720,30.0,902,0,,0,-1,-1
+runway_video20230220-145420trim.mp4,simulation\runway_video20230220-145420trim.mp4,True,1280,720,30.0,834,0,,0,-1,-1
+runway_video20230222-141052.mp4,simulation\runway_video20230222-141052.mp4,True,1280,720,30.0,1133,0,,0,-1,-1
+runway_video20230228-103640.mp4,simulation\runway_video20230228-103640.mp4,True,1280,720,30.0,1213,1,ground_truth_sidelines_extraction\outputrunway_video20230228-103640.csv,550,1,550
+runway_video20230228-140611.mp4,simulation\runway_video20230228-140611.mp4,True,1280,720,30.0,1138,0,,0,-1,-1
+runway_video20230307-084151.mp4,simulation\runway_video20230307-084151.mp4,True,1280,720,30.0,1433,0,,0,-1,-1
+runway_video20230310-073117.mp4,simulation\runway_video20230310-073117.mp4,True,1280,720,30.0,1677,0,,0,-1,-1
+runway_video20230317-080810.mp4,simulation\runway_video20230317-080810.mp4,True,1280,720,30.0,2406,0,,0,-1,-1
+runway_video20230323-074405.mp4,simulation\runway_video20230323-074405.mp4,True,1280,720,30.0,1879,0,,0,-1,-1
+runway_video20230323-075510.mp4,simulation\runway_video20230323-075510.mp4,True,1280,720,30.0,1021,0,,0,-1,-1
+runway_video20230323-081413.mp4,simulation\runway_video20230323-081413.mp4,True,1280,720,30.0,966,0,,0,-1,-1
+runway_video20230329-081531.mp4,simulation\runway_video20230329-081531.mp4,True,1280,720,30.0,1000,0,,0,-1,-1
+runway_video20230329-135709.mp4,simulation\runway_video20230329-135709.mp4,True,1280,720,30.0,1073,0,,0,-1,-1
+runway_video20230329-140042.mp4,simulation\runway_video20230329-140042.mp4,True,1280,720,30.0,789,0,,0,-1,-1
+runway_video20230329-151214.mp4,simulation\runway_video20230329-151214.mp4,True,1280,720,30.0,1214,0,,0,-1,-1
+runway_video20230424-093634.mp4,simulation\runway_video20230424-093634.mp4,True,1280,720,30.0,1088,0,,0,-1,-1
+runway_video20230424-093923.mp4,simulation\runway_video20230424-093923.mp4,True,1280,720,30.0,1156,0,,0,-1,-1
+runway_video20230424-115813.mp4,simulation\runway_video20230424-115813.mp4,True,1280,720,30.0,1326,0,,0,-1,-1
+runway_video20230424-144011.mp4,simulation\runway_video20230424-144011.mp4,True,1280,720,30.0,847,0,,0,-1,-1
+runway_video20230424-145756.mp4,simulation\runway_video20230424-145756.mp4,True,1280,720,30.0,724,0,,0,-1,-1
+runway_video20230425-092326.mp4,simulation\runway_video20230425-092326.mp4,True,1280,720,30.0,1245,0,,0,-1,-1
+runway_video20230425-092918.mp4,simulation\runway_video20230425-092918.mp4,True,1280,720,30.0,1221,0,,0,-1,-1
+runway_video20230503-093907.mp4,simulation\runway_video20230503-093907.mp4,True,1280,720,30.0,1192,0,,0,-1,-1
+runway_video_02_02_2023_11.mp4,simulation\runway_video_02_02_2023_11.mp4,True,1280,720,30.0,1776,0,,0,-1,-1
+ultra - 2023-04-21 11.32.17.avi,simulation\ultra - 2023-04-21 11.32.17.avi,True,640,360,30.00030000300003,7244,0,,0,-1,-1
+ultra - 2023-04-21 11.42.22.avi,simulation\ultra - 2023-04-21 11.42.22.avi,True,1000,562,30.00030000300003,12064,0,,0,-1,-1
+ultra - 2023-04-21 11.49.47.avi,simulation\ultra - 2023-04-21 11.49.47.avi,True,1000,562,30.00030000300003,2229,0,,0,-1,-1
+ultra - 2023-04-21 11.53.37.avi,simulation\ultra - 2023-04-21 11.53.37.avi,True,1000,562,30.00030000300003,3302,0,,0,-1,-1
+ultra - 2023-04-21 11.57.37.avi,simulation\ultra - 2023-04-21 11.57.37.avi,True,1280,720,30.00030000300003,2925,0,,0,-1,-1
+video_gt_3101.mp4,simulation\video_gt_3101.mp4,True,1280,720,30.0,2225,0,,0,-1,-1
+vidSim.mp4,simulation\vidSim.mp4,True,1280,756,30.000019305031728,1554,0,,0,-1,-1
+vidSim_abort.mp4,simulation\vidSim_abort.mp4,True,1280,756,30.011000047826293,1255,0,,0,-1,-1
+vidSim_abort1.mp4,simulation\vidSim_abort1.mp4,True,1280,756,30.024350577446373,1039,0,,0,-1,-1
+vidSim_abort1_crop.mp4,simulation\vidSim_abort1_crop.mp4,True,1280,690,30.011,1039,0,,0,-1,-1

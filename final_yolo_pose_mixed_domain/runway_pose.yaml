@@ -1,0 +1,12 @@
+path: D:/python_projects/YOLO_projects/aviation_cv/final_yolo_pose_mixed_domain
+
+train: images/train
+val: images/val
+test: images/test
+
+kpt_shape: [4, 2]
+
+flip_idx: [2, 3, 0, 1]
+
+names:
+  0: runway

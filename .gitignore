@@ -1,46 +1,15 @@
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
 *.pyo
 
-# Virtual environment
+# PyCharm virtual environment
 .venv/
-venv/
-env/
 
-# IDE
-.idea/
-.vscode/
-
-# Large datasets
+# RAW DOWNLOADED DATASETS ONLY
 UAV/
 LARD/
-images/
 
-# Generated training/output files
-runs/
-outputs/
-inspection_frames/
-experiments/
-
-# Local model weights
-*.pt
-*.pth
-*.onnx
-
-# Large media
-*.mp4
-*.MP4
-*.avi
-*.mov
-*.mkv
-
-# Dataset/build artifacts
-final_yolo_pose_mixed_domain/
-*.npz
-
-# Generated analysis files
-*.csv
-
-# Temporary images
-yolo_test_image_0605.jpg
+# Operating-system junk
+Thumbs.db
+.DS_Store
